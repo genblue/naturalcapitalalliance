@@ -1440,6 +1440,22 @@ body {
     text-align: center;
   }
 }
+.cid-r2mECCpgmK {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r2mECCpgmK .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r2nPsYSGIM {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/larm-rmah-216854-unsplash-2000x1333.jpg");
+}
+.cid-r2nPsYSGIM .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-r2mDupXCaU {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1469,56 +1485,6 @@ body {
   height: 100%;
 }
 .cid-r2mDLcJFCD .card-title {
-  text-align: center;
-}
-.cid-r2mECCpgmK {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-r2mECCpgmK .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r2mF99g43q {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-r2mF99g43q .card-img {
-  background-color: #fff;
-}
-.cid-r2mF99g43q .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-r2mF99g43q h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-r2mF99g43q p {
-  text-align: left;
-}
-.cid-r2mF99g43q .mbr-text {
-  color: #767676;
-}
-.cid-r2mF99g43q .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-r2mF99g43q .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-r2mF99g43q .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
-}
-.cid-r2mF99g43q .card-title {
   text-align: center;
 }
 .cid-r2mainE8yR {
